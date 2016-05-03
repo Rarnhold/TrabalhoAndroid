@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="nome">Nome: </string>
+    <string name="sobrenome">Sobrenome: </string>
+    <string name="idade">Idade: </string>
+    <string name="sexo">Sexo: </string>
+    <string name="sexoMasculino">Masculino</string>
+    <string name="sexoFeminino">Feminino</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+    <string name="hintNome">Escreva seu nome </string>
+    <string name="hintSobrenome">Escreva seu sobrenome </string>
+    <string name="hintIdade">Qual sua idade: </string>
+
+
+
+
+</resources>
